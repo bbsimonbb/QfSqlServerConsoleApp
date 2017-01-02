@@ -1,0 +1,6 @@
+C:\dev\QFSqlServerConsoleApp\QFSqlServerConsoleApp\bin\Debug\QFSqlServerConsoleApp.exe.config
+C:\dev\QFSqlServerConsoleApp\QFSqlServerConsoleApp\obj\Debug\QFSqlServerConsoleApp.csprojResolveAssemblyReference.cache
+C:\dev\QFSqlServerConsoleApp\QFSqlServerConsoleApp\bin\Debug\QFSqlServerConsoleApp.exe
+C:\dev\QFSqlServerConsoleApp\QFSqlServerConsoleApp\bin\Debug\QFSqlServerConsoleApp.pdb
+C:\dev\QFSqlServerConsoleApp\QFSqlServerConsoleApp\obj\Debug\QFSqlServerConsoleApp.exe
+C:\dev\QFSqlServerConsoleApp\QFSqlServerConsoleApp\obj\Debug\QFSqlServerConsoleApp.pdb
